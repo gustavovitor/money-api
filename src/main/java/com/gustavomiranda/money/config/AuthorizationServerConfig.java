@@ -47,8 +47,8 @@ public class AuthorizationServerConfig extends AuthorizationServerConfigurerAdap
         *
         * authorizedGrantType escolhe o fluxo de autenticação e o acessTokenValiditySeconds, o tempo do token em segundos. */
         clients.inMemory()
-                .withClient("angular")
-                .secret(encoder.encode("@ngular0"))
+                .withClient("oauth2-client-api")
+                .secret(encoder.encode("*Y*%bXQ#<5,p~[Vk9bb&&X9rsw7V~J`_"))
                 .scopes("read", "write")
                 .authorizedGrantTypes("password", "refresh_token")
                 .accessTokenValiditySeconds(1800)
