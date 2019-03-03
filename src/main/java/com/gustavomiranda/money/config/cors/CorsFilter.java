@@ -1,4 +1,4 @@
-package com.gustavomiranda.money.cors;
+package com.gustavomiranda.money.config.cors;
 
 import com.gustavomiranda.money.config.property.MoneyAPIProperty;
 import org.springframework.beans.factory.annotation.Autowired;

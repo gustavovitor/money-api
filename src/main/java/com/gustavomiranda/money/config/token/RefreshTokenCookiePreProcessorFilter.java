@@ -1,4 +1,4 @@
-package com.gustavomiranda.money.token;
+package com.gustavomiranda.money.config.token;
 
 import lombok.Getter;
 import org.apache.catalina.util.ParameterMap;

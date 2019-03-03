@@ -1,4 +1,4 @@
-package com.gustavomiranda.money.exceptionshandler;
+package com.gustavomiranda.money.handlers;
 
 import lombok.Getter;
 import lombok.Setter;

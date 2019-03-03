@@ -1,4 +1,4 @@
-package com.gustavomiranda.money.token;
+package com.gustavomiranda.money.config.token;
 
 import com.gustavomiranda.money.config.property.MoneyAPIProperty;
 import org.springframework.beans.factory.annotation.Autowired;
